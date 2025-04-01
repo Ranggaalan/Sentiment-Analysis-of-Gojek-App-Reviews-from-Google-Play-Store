@@ -5,7 +5,7 @@ This project analyzes **user reviews of the Gojek application** from the **Googl
 ![Image](https://github.com/user-attachments/assets/c001fe28-0934-4319-aa61-a7cee5eecd19)
 
 ## **Dataset**  
-The dataset consists of user reviews collected from **Google Play Store**, including:  
+The dataset consists of user reviews collected from **Google Play Store**, including:  (Link:https://play.google.com/store/search?q=gojek&c=apps)
 - **Review Text**: User feedback about the app  
 - **Rating (1-5 Stars)**  
 - **Date of Review**  
