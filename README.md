@@ -44,22 +44,31 @@ The best-performing models were **Decision Tree and SVM**, achieving the **highe
 Most user feedback is **negative**, indicating areas for improvement in the app.  
 
 ### **Model Performance**  
-![Model Accuracy](image.png)  
+![image](https://github.com/user-attachments/assets/c22f2e07-c6d3-4e3e-a9ab-29f1ea19cb26)
 
 - **Decision Tree and SVM achieved the highest accuracy.**  
 - Other models like **Logistic Regression, Naïve Bayes, and Random Forest** also performed well, but with slightly lower accuracy.  
 
 ### **Key Insights**  
-- **Frequent Positive Words**: "Fast", "Easy", "Good Service"  
-- **Frequent Negative Words**: "Bug", "Crash", "Slow", "Expensive"  
+- **Frequent Positive Words**: "Layanan", "Baik", "Jalan"  
+- **Frequent Negative Words**: "Lama", "Bayar", "Driver", "Kecewa"  
 - **Common complaints** include **app crashes, slow response, and pricing issues**.  
 - **Neutral reviews** often discuss **mixed experiences with customer service**.  
 
 ### Sentimen Positif
 ![Image](https://github.com/user-attachments/assets/7814637d-b694-4556-bf48-d975eaf81361)
 
-### Sentimen Positif
+### Sentimen Negatif
+![Image](https://github.com/user-attachments/assets/607a57db-c1dd-44a8-9192-3a614418baa9)
 
+### Sentimen Netral
+![Image](https://github.com/user-attachments/assets/6a190ee1-fd18-41d6-8f17-63a2408127e4)
+
+### Hasil Sentimen
+![image](https://github.com/user-attachments/assets/e9dc6df7-4b3f-4e0a-8af6-eef71558b84a)
+
+### Confusion Matrix
+![image](https://github.com/user-attachments/assets/4bb31f40-5a11-4800-b6b0-a60c17ffb76d)
 
 
 ## **Technologies Used**  
